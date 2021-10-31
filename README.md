@@ -75,3 +75,6 @@ Hai phương pháp sau có thể kết nối ứng dụng với CloudFlare, từ
  1. ** Xin đừng lạm dụng dự án này, có rất ít dịch vụ miễn phí như Heroku, hãy sử dụng và trân trọng **
  2. Nếu bạn sử dụng tên miền để kết nối với CloudFlare, vui lòng xem xét bật TLS 1.3 
  3. Hầu hết các địa chỉ AWS IPv4 đã bị Twitter chặn 
+
+## YouTube: Bởi Admin Tạo Ra Đăng Ký Để Ủng Hộ Có Động Lực Làm 
+http://youtube.com/watch?v=98AGGL1ayv8&feature=youtu.be
