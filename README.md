@@ -1,3 +1,5 @@
+#VMESS Thử Nghiệm
+vmess://eyJhZGQiOiJkdXlvbGFtb2RnYW1lLmhlcm9rdWFwcC5jb20iLCJhaWQiOiI2NCIsImhvc3QiOiIiLCJpZCI6ImFkODA2NDg3LTJkMjYtNDYzNi05OGI2LWFiODVjYzg1MjFmNyIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6ImR1eW9sYW1vZGdhbWUuaGVyb2t1YXBwLmNvbSIsInNuaSI6ImltYWdlYWttMS50djM2MC52biIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 # Giới thiệu:
 Đây là một repository được fork lại từ [https://github.com/bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) với chức năng là tạo ra một server V2Ray trên heroku một cách đơn giản nhất.
 
